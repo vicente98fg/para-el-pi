@@ -1,0 +1,35 @@
+body{
+  margin: 0px;
+}
+.izq{
+  float: left;
+  width: 33%;
+  height: 100%;
+  background-color: #e61a31;
+}
+
+#florida{
+  margin-top: 50%;
+  margin-bottom: 71.5%;
+  margin-left: 19%;
+}
+
+#fotoPerfil{
+  position: relative;
+  margin-top: -135%;
+  width: 15%;
+  float: left;
+  margin-left: 139%;
+}
+
+form{
+  width: 100px;
+  float: left;
+  position: relative;
+  margin-top: -120%;
+  margin-left: 130%;
+}
+
+input{
+  height: 20px;
+}

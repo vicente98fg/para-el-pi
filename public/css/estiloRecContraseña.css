@@ -1,0 +1,32 @@
+body{
+  margin:0px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 19px;
+  }
+.texto{
+  margin-left: 34%;
+  margin-top: 3%;
+  }
+.input{
+  width: 500px;
+  }
+.volver{
+  border-radius: 5px;
+  }
+.boton{
+  border-radius: 5px;
+  }
+input:hover{
+  background-color:#ededed;
+  }
+input{
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-color:#8c8c8c;
+  font-size: 19px;
+  }
+img{
+  margin-left: 40%;
+  margin-top: 2%;
+  }

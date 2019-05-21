@@ -1,0 +1,366 @@
+body{
+  margin:0px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 19px;
+  }
+#fondo{
+  width: 100%;
+  max-height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  }
+.submit{
+  border-radius: 5px;
+  width: 65px;
+  height: 35px;
+  margin-left: 100px;
+  margin-top: 15px;
+  font-size: 19px;
+  }
+.submit:hover{
+  background-color: #c9c9c9;
+  }
+input:hover{
+  background-color:#ededed;
+  }
+input{
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-color:#8c8c8c;
+  font-size: 19px;
+  }
+.div1{
+  display: block;
+  padding: 100px;
+  }
+.div2{
+  display: block;
+  padding: 100px;
+  }
+img{
+ 
+  }
+#dni_txt{
+  height: 25px;
+  width:450px;
+}
+#psw{
+  margin-right:370px;
+  margin-top:45px;
+  }
+#psw_txt{
+  height: 25px;
+  width:450px;
+  }
+#fr_pw{
+  margin-right:25px;
+  }
+#rt_log{
+  margin-right: 25px;
+  }
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    }
+  #fondo{
+    max-height: none;
+    justify-content: none;
+    align-items: none;
+    display: inherit;
+    margin-top:0px;
+    }
+  .submit{
+    border-radius: 5px;
+    width: 180px;
+    height: 55px;
+    margin-left: 15px;
+    margin-top: 45px;
+    font-size: 22px;
+    }
+  .submit:hover{
+    background-color: #c9c9c9;
+    }
+  input:hover{
+    background-color:#ededed;
+    }
+  input{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color:#8c8c8c;
+    background-color:#ededed;
+    font-size: 20px;
+    }
+  .div1{
+    float:left;
+    margin-top: 0px;
+    padding: 0px;
+    width: 35%;
+    height: 768px;
+    background-color: #c1e6ff;
+    }
+  .div2{
+    float:right;
+    padding: 0px;
+    margin-top: 20%;
+    margin-right: 80px;
+    }
+  label{
+    margin-left: 8%;
+  }
+  img{
+    width:320px;
+    margin-top: 78%;
+    margin-left: 4%;
+    height:160px;
+    }
+  #dni_txt{
+    width:330px;
+    height:38px;
+    margin-left: 8%;
+  }
+  #psw{
+    margin-right:0px;
+    margin-top:45px;
+    }
+  #psw_txt{
+    width:330px;
+    height:38px;
+    margin-left: 8%;
+    }
+  #fr_pw{
+    margin-right:45px;
+    margin-top: 1px;
+    font-size: 18px;
+    }
+  #rt_log{
+    margin-right: 25px;
+    }
+  }
+@media only screen and (min-width: 350px) and (max-width: 390px) {
+  body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    }
+  #fondo{
+    max-height: none;
+    justify-content: none;
+    align-items: none;
+    display: inherit;
+    margin-top:0px;
+    }
+  .submit{
+    border-radius: 5px;
+    width: 180px;
+    height: 55px;
+    margin-left: 75px;
+    margin-top: 45px;
+    font-size: 22px;
+    }
+  .submit:hover{
+    background-color: #c9c9c9;
+    }
+  input:hover{
+    background-color:#ededed;
+    }
+  input{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color:#8c8c8c;
+    background-color:#ededed;
+    font-size: 20px;
+    }
+  .div1{
+    margin-top: 0px;
+    padding: 0px;
+    height: 100%;
+    background-color: #c1e6ff;
+    }
+  .div2{
+    padding:0px;
+    margin-top: 8%;
+    margin-left: 4%;
+    }
+  img{
+    width:350px;
+    height:160px;
+    margin-left: 2%;
+    }
+  #dni_txt{
+    width:330px;
+    height:38px;
+  }
+  #psw{
+    margin-right:0px;
+    margin-left:0px;
+    margin-top:45px;
+    }
+  #psw_txt{
+    width:330px;
+    height:38px;
+    }
+  #fr_pw{
+    margin-right:25px;
+    margin-top: 1px;
+    font-size: 18px;
+    }
+  #rt_log{
+    margin-right: 25px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 470px) {
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  }
+#fondo{
+  max-height: none;
+  justify-content: none;
+  align-items: none;
+  display: inherit;
+  margin-top:0px;
+  }
+.submit{
+  border-radius: 5px;
+  width: 180px;
+  height: 55px;
+  margin-left: 75px;
+  margin-top: 35%;
+  font-size: 22px;
+  }
+.submit:hover{
+  background-color: #c9c9c9;
+  }
+input:hover{
+  background-color:#ededed;
+  }
+input{
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-color:#8c8c8c;
+  background-color:#ededed;
+  font-size: 20px;
+  }
+.div1{
+  margin-top: 0px;
+  padding: 0px;
+  height: 100%;
+  background-color: #c1e6ff;
+  }
+.div2{
+  margin-top: -18%;
+  margin-left: -15%;
+  }
+img{
+  width:350px;
+  height:160px;
+  margin-left: 8%;
+  margin-top:1px;
+  margin-right: 0px;
+  margin-top: 0px;
+  }
+#dni_txt{
+  width:330px;
+  height:38px;
+}
+#psw{
+  margin-right:0px;
+  margin-left:0px;
+  margin-top:45px;
+  }
+#psw_txt{
+  width:330px;
+  height:38px;
+  }
+#fr_pw{
+  margin-right:25px;
+  margin-top: 1px;
+  font-size: 18px;
+  }
+#rt_log{
+  margin-right: 25px;
+  }
+}
+@media only screen and (min-width: 300px) and (max-width: 349px) {
+  body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    }
+  #fondo{
+    height: 100%;
+    width: 100%;
+    max-height: none;
+    justify-content: none;
+    align-items: none;
+    display: inherit;
+    margin-bottom: 0px;
+    }
+  .submit{
+    border-radius: 5px;
+    width: 180px;
+    height: 55px;
+    margin-left: 50px;
+    margin-top: 45px;
+    margin-bottom:0px;
+    font-size: 22px;
+    }
+  .submit:hover{
+    background-color: #c9c9c9;
+    }
+  input:hover{
+    background-color:#ededed;
+    }
+  input{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color:#8c8c8c;
+    background-color:#ededed;
+    font-size: 20px;
+    }
+  .div1{
+    margin-top: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: #c1e6ff;
+    }
+  .div2{
+    margin-top: 10px;
+    padding: 0px;
+    margin-left: 10px;
+    margin-right: 15px;
+    }
+  img{
+    width:300px;
+    height:140px;
+    margin-left: 6px;
+    }
+  #dni_txt{
+    width:300px;
+    height:38px;
+    margin-right: 0px;
+  }
+  #psw{
+    margin-right:0px;
+    margin-top:45px;
+    }
+  #psw_txt{
+    width:300px;
+    height:38px;
+    margin-right: 0px;
+    }
+  #fr_pw{
+    margin-right:25px;
+    margin-top: 1px;
+    font-size: 18px;
+    }
+  #rt_log{
+    margin-right: 25px;
+    }
+}

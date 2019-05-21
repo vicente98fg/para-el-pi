@@ -1,0 +1,2175 @@
+body{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+#perfil{
+  float: left;
+  width: 5%;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+#nivel{
+  float: left;
+  position: relative;
+  width: 4%;
+  margin-left: -26.8%;
+  margin-top: 14.5%;
+
+}
+.info{
+  float: left;
+  font-size: 20px;
+  margin-left: 2%;
+  margin-top: 6%;
+}
+.nivel{
+  float: left;
+  margin-left: -21%;
+  margin-top: 15%;
+
+}
+.puntosAc{
+  float: left;
+  margin-left: -13%;
+  margin-top: 15%;
+
+}
+.puntosNe{
+  float: left;
+  margin-left: -1%;
+  margin-top: 15%;
+
+}
+.ProcesoNivel{
+  float: left;
+  margin-left: 4%;
+  margin-top: 15%;
+
+}
+.adInfo{
+  float: left;
+  margin-left: -50%;
+  margin-top: 18%;
+}
+#centro{
+  float: left;
+  margin-left: -50%;
+  margin-top: 20%;
+
+}
+.boton1{
+  margin-top: 4%;
+  margin-left: -3%;
+  margin-bottom: 1%;
+  border-radius: 5px;
+}
+.boton2{
+  margin-left:-3%;
+    border-radius: 5px;
+}
+progress{
+  float: left;
+  margin-left: -53%;
+  margin-top: 20%;
+  width: 50%;
+}
+input:hover{
+    background-color:#ededed;
+    }
+  input{
+    width: 120px;
+    height: 28px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color:#8c8c8c;
+    background-color:#ededed;
+    font-size: 17px;
+    }
+
+  @media only screen and (max-width: 361px) and (min-width: 359px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7.3%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -86.4%;
+      margin-top: 31.5%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 17px;
+      margin-left: 8%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -68%;
+      margin-top: 33%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 3%;
+      margin-top: 13%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 10%;
+      margin-top: 10%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 24%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -71%;
+      margin-top: 32%;
+    }
+    #centro{
+      float: left;
+      margin-left: 10%;
+      margin-top: 2%;
+
+    }
+    .boton1{
+      margin-top: 1%;
+      margin-left: 8.3%;
+      margin-bottom: 9px;
+    }
+    .boton2{
+      margin-left:8.3%;
+    }
+    progress{
+      float: left;
+      margin-left: -63.3%;
+      margin-top: 20%;
+      width: 80%;
+    }
+    input{
+      width: 150px;
+      height: 25px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 412px) and (min-width: 410px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -83%;
+      margin-top: 26.2%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 9%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -62.5%;
+      margin-top: 28%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 10%;
+      margin-top: 9%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -66%;
+      margin-top: 17%;
+    }
+    #centro{
+      float: left;
+      padding: 0px;
+      margin-top: 25%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 5%;
+      margin-bottom: 9px;
+    }
+    .boton2{
+      margin-left:5%;
+    }
+    progress{
+      float: left;
+      margin-left: 10%;
+      margin-top: 5%;
+      width: 80%;
+    }
+    input{
+      width: 170px;
+      height: 27px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 321px) and (min-width: 319px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7%;
+      margin-top: 5%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -88%;
+      margin-top: 26.2%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 16px;
+      margin-left: 6%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -70%;
+      margin-top: 28%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 7%;
+      margin-top: 9%;
+
+    }
+    .puntosNe{
+      font-size: 16px;
+      float: left;
+      margin-left: 8%;
+      margin-top: 9%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -70%;
+      margin-top: 19%;
+    }
+    #centro{
+      float: left;
+      margin-left: -65%;
+      margin-top: 15%;
+
+    }
+    .boton1{
+      margin-top: 0%;
+      margin-left: 5%;
+      margin-bottom: 5px;
+    }
+    .boton2{
+      margin-left:5%;
+    }
+    progress{
+      float: left;
+      margin-left: 9%;
+      margin-top: 5%;
+      width: 80%;
+    }
+    input{
+      width: 145px;
+      height: 25px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 376px) and (min-width: 374px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 8%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 20%;
+      margin-left: -89%;
+      margin-top: 26.2%;
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 5.3%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -67%;
+      margin-top: 30%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 6.5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 12%;
+      margin-top: 8%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 3%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -66%;
+      margin-top: 30%;
+    }
+    #centro{
+      float: left;
+      margin-left: -72%;
+      margin-top: 36%;
+
+    }
+    .boton1{
+      margin-top: 0%;
+      margin-left: 4%;
+      margin-bottom: 7px;
+    }
+    .boton2{
+      margin-left:4%;
+    }
+    progress{
+      float: left;
+      margin-left: -57%;
+      margin-top: 18%;
+      width: 80%;
+    }
+    input{
+      width: 170px;
+      height: 30px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 415px) and (min-width: 413px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 8%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 20%;
+      margin-left: -84%;
+      margin-top: 26.2%;
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 9%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -61%;
+      margin-top: 30%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 6.5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 15%;
+      margin-top: 8%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 30%;
+      margin-top: 3%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -62%;
+      margin-top: 30%;
+    }
+    #centro{
+      float: left;
+      margin-left: -72%;
+      margin-top: 36%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 4%;
+      margin-bottom: 7px;
+    }
+    .boton2{
+      margin-left:4%;
+    }
+    progress{
+      float: left;
+      margin-left: -53%;
+      margin-top: 18%;
+      width: 75%;
+    }
+    input{
+      width: 170px;
+      height: 30px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 1025px) and (min-width: 1023px) {
+    body{
+      font-size: 25px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -50%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 24px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -40%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -29%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 2%;
+      margin-top: 7%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 23%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 30px;;
+      margin-left: 5%;
+      margin-bottom: 7px;
+      border-radius: 5px;
+    }
+    .boton2{
+      margin-left:5%;
+        border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -50%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 200px;
+        height: 30px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 17px;
+        }
+  }
+  @media only screen and (max-width: 1367px) and (min-width: 1365px) {
+    body{
+      font-size: 30px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -45%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 30px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -35%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -25%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: -3%;
+      margin-top: 11%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 23%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 13%;
+      margin-bottom: 13px;
+      border-radius: 5px;
+    }
+    .boton2{
+      position: absolute;
+      margin-left:-19.6%;
+      border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -50%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 250px;
+        height: 40px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 25px;
+        }
+  }
+  @media only screen and (max-width: 799px) and (min-width: 795px) {
+    body{
+      font-size: 18px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -45%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 16px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -35%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -25%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: -3%;
+      margin-top: 8.5%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: -6%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 3.5%;
+      margin-left: 13%;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+    .boton2{
+      position: absolute;
+      margin-left:-21%;
+      border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -48%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 150px;
+        height: 25px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 20px;
+        }
+  }
+
+  @media only screen and (max-width: 361px) and (min-width: 359px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7.3%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -86.4%;
+      margin-top: 31.5%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 17px;
+      margin-left: 8%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -68%;
+      margin-top: 33%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 3%;
+      margin-top: 13%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 10%;
+      margin-top: 10%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 24%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -71%;
+      margin-top: 32%;
+    }
+    #centro{
+      float: left;
+      margin-left: 10%;
+      margin-top: 2%;
+
+    }
+    .boton1{
+      margin-top: 1%;
+      margin-left: 8.3%;
+      margin-bottom: 9px;
+    }
+    .boton2{
+      margin-left:8.3%;
+    }
+    progress{
+      float: left;
+      margin-left: -63.3%;
+      margin-top: 20%;
+      width: 80%;
+    }
+    input{
+      width: 150px;
+      height: 25px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 412px) and (min-width: 410px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -83%;
+      margin-top: 26.2%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 9%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -62.5%;
+      margin-top: 28%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 10%;
+      margin-top: 9%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -66%;
+      margin-top: 17%;
+    }
+    #centro{
+      float: left;
+      padding: 0px;
+      margin-top: 25%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 5%;
+      margin-bottom: 9px;
+    }
+    .boton2{
+      margin-left:5%;
+    }
+    progress{
+      float: left;
+      margin-left: 10%;
+      margin-top: 5%;
+      width: 80%;
+    }
+    input{
+      width: 170px;
+      height: 27px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 321px) and (min-width: 319px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7%;
+      margin-top: 5%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -88%;
+      margin-top: 26.2%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 16px;
+      margin-left: 6%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -70%;
+      margin-top: 28%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 7%;
+      margin-top: 9%;
+
+    }
+    .puntosNe{
+      font-size: 16px;
+      float: left;
+      margin-left: 8%;
+      margin-top: 9%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -70%;
+      margin-top: 19%;
+    }
+    #centro{
+      float: left;
+      margin-left: -65%;
+      margin-top: 15%;
+
+    }
+    .boton1{
+      margin-top: 0%;
+      margin-left: 5%;
+      margin-bottom: 5px;
+    }
+    .boton2{
+      margin-left:5%;
+    }
+    progress{
+      float: left;
+      margin-left: 9%;
+      margin-top: 5%;
+      width: 80%;
+    }
+    input{
+      width: 145px;
+      height: 25px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 376px) and (min-width: 374px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 8%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 20%;
+      margin-left: -89%;
+      margin-top: 26.2%;
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 5.3%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -67%;
+      margin-top: 30%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 6.5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 12%;
+      margin-top: 8%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 3%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -66%;
+      margin-top: 30%;
+    }
+    #centro{
+      float: left;
+      margin-left: -72%;
+      margin-top: 36%;
+
+    }
+    .boton1{
+      margin-top: 0%;
+      margin-left: 4%;
+      margin-bottom: 7px;
+    }
+    .boton2{
+      margin-left:4%;
+    }
+    progress{
+      float: left;
+      margin-left: -57%;
+      margin-top: 18%;
+      width: 80%;
+    }
+    input{
+      width: 170px;
+      height: 30px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 415px) and (min-width: 413px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 8%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 20%;
+      margin-left: -84%;
+      margin-top: 26.2%;
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 9%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -61%;
+      margin-top: 30%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 6.5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 15%;
+      margin-top: 8%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 30%;
+      margin-top: 3%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -62%;
+      margin-top: 30%;
+    }
+    #centro{
+      float: left;
+      margin-left: -72%;
+      margin-top: 36%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 4%;
+      margin-bottom: 7px;
+    }
+    .boton2{
+      margin-left:4%;
+    }
+    progress{
+      float: left;
+      margin-left: -53%;
+      margin-top: 18%;
+      width: 75%;
+    }
+    input{
+      width: 170px;
+      height: 30px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 1025px) and (min-width: 1023px) {
+    body{
+      font-size: 25px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -50%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 24px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -40%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -29%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 2%;
+      margin-top: 7%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 23%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 30px;;
+      margin-left: 5%;
+      margin-bottom: 7px;
+      border-radius: 5px;
+    }
+    .boton2{
+      margin-left:5%;
+        border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -50%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 200px;
+        height: 30px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 17px;
+        }
+  }
+  @media only screen and (max-width: 1367px) and (min-width: 1365px) {
+    body{
+      font-size: 30px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -45%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 30px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -35%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -25%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: -3%;
+      margin-top: 11%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 23%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 13%;
+      margin-bottom: 13px;
+      border-radius: 5px;
+    }
+    .boton2{
+      position: absolute;
+      margin-left:-19.6%;
+      border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -50%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 250px;
+        height: 40px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 25px;
+        }
+  }
+  @media only screen and (max-width: 799px) and (min-width: 795px) {
+    body{
+      font-size: 18px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -45%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 16px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -35%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -25%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: -3%;
+      margin-top: 8.5%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: -6%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 3.5%;
+      margin-left: 13%;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+    .boton2{
+      position: absolute;
+      margin-left:-21%;
+      border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -48%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 150px;
+        height: 25px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 20px;
+        }
+  }
+  @media only screen and (max-width: 361px) and (min-width: 359px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7.3%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -86.4%;
+      margin-top: 31.5%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 17px;
+      margin-left: 8%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -68%;
+      margin-top: 33%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 3%;
+      margin-top: 13%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 10%;
+      margin-top: 10%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 24%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -71%;
+      margin-top: 32%;
+    }
+    #centro{
+      float: left;
+      margin-left: 10%;
+      margin-top: 2%;
+
+    }
+    .boton1{
+      margin-top: 1%;
+      margin-left: 8.3%;
+      margin-bottom: 9px;
+    }
+    .boton2{
+      margin-left:8.3%;
+    }
+    progress{
+      float: left;
+      margin-left: -63.3%;
+      margin-top: 20%;
+      width: 80%;
+    }
+    input{
+      width: 150px;
+      height: 25px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 412px) and (min-width: 410px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -83%;
+      margin-top: 26.2%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 9%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -62.5%;
+      margin-top: 28%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 10%;
+      margin-top: 9%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -66%;
+      margin-top: 17%;
+    }
+    #centro{
+      float: left;
+      padding: 0px;
+      margin-top: 25%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 5%;
+      margin-bottom: 9px;
+    }
+    .boton2{
+      margin-left:5%;
+    }
+    progress{
+      float: left;
+      margin-left: 10%;
+      margin-top: 5%;
+      width: 80%;
+    }
+    input{
+      width: 170px;
+      height: 27px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 321px) and (min-width: 319px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 7%;
+      margin-top: 5%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 16%;
+      margin-left: -88%;
+      margin-top: 26.2%;
+
+    }
+    .info{
+      text-align: center;
+      font-size: 16px;
+      margin-left: 6%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -70%;
+      margin-top: 28%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 7%;
+      margin-top: 9%;
+
+    }
+    .puntosNe{
+      font-size: 16px;
+      float: left;
+      margin-left: 8%;
+      margin-top: 9%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 4%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -70%;
+      margin-top: 19%;
+    }
+    #centro{
+      float: left;
+      margin-left: -65%;
+      margin-top: 15%;
+
+    }
+    .boton1{
+      margin-top: 0%;
+      margin-left: 5%;
+      margin-bottom: 5px;
+    }
+    .boton2{
+      margin-left:5%;
+    }
+    progress{
+      float: left;
+      margin-left: 9%;
+      margin-top: 5%;
+      width: 80%;
+    }
+    input{
+      width: 145px;
+      height: 25px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 376px) and (min-width: 374px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 8%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 20%;
+      margin-left: -89%;
+      margin-top: 26.2%;
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 5.3%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -67%;
+      margin-top: 30%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 6.5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 12%;
+      margin-top: 8%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 28%;
+      margin-top: 3%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -66%;
+      margin-top: 30%;
+    }
+    #centro{
+      float: left;
+      margin-left: -72%;
+      margin-top: 36%;
+
+    }
+    .boton1{
+      margin-top: 0%;
+      margin-left: 4%;
+      margin-bottom: 7px;
+    }
+    .boton2{
+      margin-left:4%;
+    }
+    progress{
+      float: left;
+      margin-left: -57%;
+      margin-top: 18%;
+      width: 80%;
+    }
+    input{
+      width: 170px;
+      height: 30px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 415px) and (min-width: 413px) {
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 20%;
+      margin-left: 8%;
+      margin-top: 5%;
+      margin-right: 8%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 20%;
+      margin-left: -84%;
+      margin-top: 26.2%;
+    }
+    .info{
+      text-align: center;
+      font-size: 19px;
+      margin-left: 9%;
+      margin-top: 8%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -61%;
+      margin-top: 30%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: 6.5%;
+      margin-top: 10%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 15%;
+      margin-top: 8%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 30%;
+      margin-top: 3%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -62%;
+      margin-top: 30%;
+    }
+    #centro{
+      float: left;
+      margin-left: -72%;
+      margin-top: 36%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 4%;
+      margin-bottom: 7px;
+    }
+    .boton2{
+      margin-left:4%;
+    }
+    progress{
+      float: left;
+      margin-left: -53%;
+      margin-top: 18%;
+      width: 75%;
+    }
+    input{
+      width: 170px;
+      height: 30px;
+      border-top: 0px;
+      border-left: 0px;
+      border-right: 0px;
+      border-color:#8c8c8c;
+      background-color:#ededed;
+      font-size: 17px;
+      }
+  }
+  @media only screen and (max-width: 1025px) and (min-width: 1023px) {
+    body{
+      font-size: 25px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -50%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 24px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -40%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -29%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: 2%;
+      margin-top: 7%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 23%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 30px;;
+      margin-left: 5%;
+      margin-bottom: 7px;
+      border-radius: 5px;
+    }
+    .boton2{
+      margin-left:5%;
+        border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -50%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 200px;
+        height: 30px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 17px;
+        }
+  }
+  @media only screen and (max-width: 1367px) and (min-width: 1365px) {
+    body{
+      font-size: 30px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -45%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 30px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -35%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -25%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: -3%;
+      margin-top: 11%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: 23%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 2%;
+      margin-left: 13%;
+      margin-bottom: 13px;
+      border-radius: 5px;
+    }
+    .boton2{
+      position: absolute;
+      margin-left:-19.6%;
+      border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -50%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 250px;
+        height: 40px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 25px;
+        }
+  }
+  @media only screen and (max-width: 799px) and (min-width: 795px) {
+    body{
+      font-size: 18px;
+      font-family: 'Roboto', sans-serif;
+    }
+    #perfil{
+      float: left;
+      width: 6.4%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
+    #nivel{
+      float: left;
+      position: relative;
+      width: 8%;
+      margin-left: -45%;
+      margin-top: 16%;
+
+    }
+    .info{
+      float: left;
+      font-size: 16px;
+      margin-left: 2%;
+      margin-top: 7%;
+    }
+    .nivel{
+      float: left;
+      margin-left: -35%;
+      margin-top: 16.5%;
+
+    }
+    .puntosAc{
+      float: left;
+      margin-left: -25%;
+      margin-top: 16.5%;
+
+    }
+    .puntosNe{
+      float: left;
+      margin-left: -3%;
+      margin-top: 8.5%;
+
+    }
+    .ProcesoNivel{
+      float: left;
+      margin-left: -6%;
+      margin-top: 5%;
+
+    }
+    .adInfo{
+      float: left;
+      margin-left: -46.5%;
+      margin-top: 18%;
+    }
+    #centro{
+      float: left;
+      margin-left: -55%;
+      margin-top: 20%;
+
+    }
+    .boton1{
+      margin-top: 3.5%;
+      margin-left: 13%;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+    .boton2{
+      position: absolute;
+      margin-left:-21%;
+      border-radius: 5px;
+    }
+    progress{
+      float: left;
+      margin-left: -48%;
+      margin-top: 12%;
+      width: 73%;
+    }
+    input:hover{
+        background-color:#ededed;
+    }
+    input{
+        width: 150px;
+        height: 25px;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color:#8c8c8c;
+        background-color:#ededed;
+        font-size: 20px;
+        }
+  }
